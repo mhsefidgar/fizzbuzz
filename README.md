@@ -1,4 +1,7 @@
-#                   [<img src="https://lemay-images.nyc3.cdn.digitaloceanspaces.com/weblogo.png" width="300"/>](https://github.com/user/repository/subscription)
+#         
+<p align="center">
+  <img width="300" height="100" src="https://lemay-images.nyc3.cdn.digitaloceanspaces.com/weblogo.png">
+</p>
 
 # lemay ai Interview Questions
 
