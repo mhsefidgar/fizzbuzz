@@ -1,8 +1,8 @@
 [<img src="https://lemay-images.nyc3.cdn.digitaloceanspaces.com/weblogo.png" width="300"/>](https://github.com/user/repository/subscription)
 
-# lemay ai interview questions
+# lemay ai Interview Questions
 
-# In this repository, it is assumed that the question requires the interviewee to complete branching and merging for tasks 2 and 3.
+## In this repository, it is assumed that the question requires the interviewee to complete branching and merging for tasks 2 and 3.
 
 ## Following requirements must be met when using this repository.
 
