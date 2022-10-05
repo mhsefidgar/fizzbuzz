@@ -4,9 +4,9 @@
 
 * The first file (Deployment) is for task two, and the second folder (EXPLORATORYDATAANALYSIS) is for the third task. 
 
-* Each folder contains a Notebook that discusses the implementation and implementation in detail. 
+* Each folder contains a Notebook that discusses the implementation and usage in detail. 
 
-## ___________________________________________________________________________________________
+## ____________________________________________________
 
 ### LEMAY.AI INTERVIEW QUESTIONS
 Hello, human.
