@@ -1,4 +1,4 @@
-## Model Deployment ##
+# Model Deployment
 
 ![Alt Text](https://miro.medium.com/max/1280/0*xfXDPjASztwmJlOa.gif)
 
@@ -6,7 +6,7 @@
 
 ### The technology used is Fastapi as a web framework and Nginx as a web server. Also, Uvicorn is a Web Server Gateway Interfaces (WSGI) employed. 
 
-### The reason for selecting this HuggingFace model (T5 Small) is because it is a Text-to-Text Transfer Transformer and has many applications in NLP. 
+### The reason for selecting this HuggingFace model (T5 Small) is because it is a Text-to-Text Transfer Transformer and has a number of applications in NLP. 
 
 ### The application of this model (T5 Small) is fascinating. The sample T5 Small applications are as follows:
 
@@ -21,10 +21,24 @@
 👉 https://mlco2.github.io/impact/#compute
 
 
+## Reprodusing the results
 
+### This mini project was developed in Windows 11 OS.
+
+### Before running the Nootebook, make sure one of the following tool is running in your computer.
+
+* Windows Docker Desktop  👉 [Docker Desktop](https://docs.docker.com/engine/install/)
+
+
+* Windows Docker Toolbox  👉 [Windows Docker Toolbox ](https://docs.bitnami.com/containers/how-to/install-docker-in-windows/)
+
+
+### *Note That*: It is highly recommened to use windows 11 or Windows 10 build 1909 or later. Evidently the lower build for windows "Windows subsystem for Linux" cannot be turnned on some computers. 
 
 
 ### To reproduce the results, please follow the Notebook instructions. 
+
+
 
 
 
