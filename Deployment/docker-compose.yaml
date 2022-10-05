@@ -1,0 +1,33 @@
+﻿version: '3.8'
+
+services:
+  web:
+    container_name: web
+    image: nginx:alpine
+    restart: always
+    depends_on:
+      # `app``The service (container) must be started first, so specify `depends_on`
+      - app
+    ports:
+      # Port Mapping: "Host OS Port: Container (Nginx) Port"
+      - "80:80"
+    volumes:
+      # mount volume: "host OS path: path in container"
+      - ./web/conf.d:/etc/web/conf.d
+  app:
+    container_name: app
+    image: test_fastapi_app # specify the Docker image name to be built
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"  
+    expose:
+      - "8000:8000"
+
+    # For example, if you want to edit the source code in real time, it is convenient to mount it with `volumes`
+    # volumes:
+    #   - ./app/app:/app/app
+    # Use `command` to override `CMD` in the app container
+    # command: "uvicorn app.main:app --reload --host 0.0.0.0"
+
