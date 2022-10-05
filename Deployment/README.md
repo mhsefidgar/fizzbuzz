@@ -12,7 +12,7 @@
 ### In this repo, a RESTful API project is implemented in windows OS.
 
 <p align="center">
-  <img width="500" height="400" src="https://user-images.githubusercontent.com/7599206/194108089-0260013c-5c96-4093-920b-7270b95734bf.png">
+  <img width="500" height="400" src="https://user-images.githubusercontent.com/7599206/194110283-dd331832-234f-4e96-8cec-f258e987df39.png">
 </p>
 
 <b>
