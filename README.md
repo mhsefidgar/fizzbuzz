@@ -1,4 +1,14 @@
-# LEMAY.AI INTERVIEW QUESTIONS
+# In this repository, it is assumed that the question requires the interviewee to complete branching and merging for tasks 2 and 3.
+
+## Following requirements must be met when using this repository.
+
+* The first file (Deployment) is for task two, and the second folder (EXPLORATORYDATAANALYSIS) is for the third task. 
+
+* Each folder contains a Notebook that discusses the implementation and implementation in detail. 
+
+
+
+### LEMAY.AI INTERVIEW QUESTIONS
 Hello, human.
 
 Your goal is to demonstrate your coding skills by creating a video recording of your answers to some general knowledge questions, writing an ML API demo using Docker, python3, and a bit of magic, and showing us your exploratory data analysis skills. Please spend minimal effort on graphics and UI, as this is not a test of your UI coding skills. Just don't stress on frontend stuff.
