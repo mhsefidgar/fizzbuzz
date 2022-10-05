@@ -1,7 +1,15 @@
 # This repository deliberates on Exploratory Data Analysis.
-👇 Click the emoji to be directed to the dataset.👇
 
-##         [![Go to the Dataset](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/datasets/lvwerra/red-wine)
+
+<b>
+<p align="center" st>
+  <em> 👇 Click the emoji to be directed to the dataset.👇 </em>
+</p>
+</b>
+
+<p align="center">
+<a href="https://huggingface.co/datasets/lvwerra/red-wine"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a>
+</p>
 
 
 
