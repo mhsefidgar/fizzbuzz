@@ -4,11 +4,11 @@
 
 ### In this repo, a RESTful API project is implemented in windows OS.
 
-### The technology used is Fastapi as a web framework and Nginx as a web server. Also, Web Server Gateway Interfaces (WSGI) employed is Uvicorn. 
+### The technology used is Fastapi as a web framework and Nginx as a web server. Also, Uvicorn is a Web Server Gateway Interfaces (WSGI) employed. 
 
 ### The reason for selecting this HuggingFace model (T5 Small) is because it is a Text-to-Text Transfer Transformer and has many applications in NLP. 
 
-### The application of this model (T5 Small) is very interesting. The sample T5 Small applications are as follows:
+### The application of this model (T5 Small) is fascinating. The sample T5 Small applications are as follows:
 
 * Text translation.
 * Question answering.
@@ -25,6 +25,7 @@
 
 
 ### To reproduce the results, please follow the Notebook instructions. 
+
 
 
 
