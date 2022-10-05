@@ -1,14 +1,19 @@
-[<img src="https://lemay-images.nyc3.cdn.digitaloceanspaces.com/weblogo.png" width="300"/>](https://github.com/user/repository/subscription)
+#                   [<img src="https://lemay-images.nyc3.cdn.digitaloceanspaces.com/weblogo.png" width="300"/>](https://github.com/user/repository/subscription)
 
 # lemay ai Interview Questions
 
-## In this repository, it is assumed that the question requires the interviewee to complete branching and merging for tasks 2 and 3.
+## In this repository, it is assumed that the question requires the interviewee to complete branching and merging tasks 2 and 3.
 
-## Following requirements must be met when using this repository.
+## Following requirements must be met before using this repository.
 
 * The first file (Deployment) is for task two, and the second folder (EXPLORATORYDATAANALYSIS) is for the third task. 
 
 * Each folder contains a Notebook that discusses the implementation and usage in detail. 
+
+
+
+
+
 
 ## ____________________________________________________
 
