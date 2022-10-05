@@ -4,7 +4,7 @@
 
 ### In this repo, a RESTful API project is implemented in windows OS.
 
-### The application used is Fastapi as a web framework and Nginx as a web server. Also, Web Server Gateway Interfaces (WSGI) employed is Uvicorn. 
+### The technology used is Fastapi as a web framework and Nginx as a web server. Also, Web Server Gateway Interfaces (WSGI) employed is Uvicorn. 
 
 ### The reason for selecting this HuggingFace model (T5 Small) is because it is a Text-to-Text Transfer Transformer and has many applications in NLP. 
 
