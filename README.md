@@ -3,7 +3,7 @@
   <img width="300" height="100" src="https://lemay-images.nyc3.cdn.digitaloceanspaces.com/weblogo.png">
 </p>
 
-# lemay ai Interview Questions
+# Lemay ai Interview Questions
 
 ## In this repository, it is assumed that the question requires the interviewee to complete branching and merging tasks 2 and 3.
 
