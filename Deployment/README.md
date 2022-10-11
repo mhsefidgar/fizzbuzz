@@ -44,7 +44,7 @@
 👉 https://mlco2.github.io/impact/#compute
 
 
-## Reprodusing the results
+## Reproducing the results
 
 ### This mini project was developed in Windows 11 OS.
 
